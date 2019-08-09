@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## 1ad4good.org 
+### One Ad for Good 
 
-You can use the [editor on GitHub](https://github.com/vladgurgov/1ad4good.org/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can make a difference. One ad at time. You are are serving ads on your site chances that you have some unsold impressions. Fill them with free ads that make a difference. **One Ad for Good** is a (https://Prebid.ord) Header Bidding Adapter that serves free ads on your site
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### What kind of ads are you running?
 
-### Markdown
+We get public service advertising from orgs like (https://www.psacentral.org) (https://www.adcouncil.org), various non-profits.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Who is paying for ads?
 
-```markdown
-Syntax highlighted code block
+All of our ads are 100% free for publishers. Publishers should not expect any payments for running these campaigns, but they don't pay for ad serving either. However ad serving is not free. Currently we are supported by our donors, if you organization is looking to support please consider supporting us
 
-# Header 1
-## Header 2
-### Header 3
+### How can I support this project?
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vladgurgov/1ad4good.org/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Consider placing our ads on your sites( we only take inventory that is otherwise unsold to advertisers), 
+- Contribute to this project and our open-source bidder
+- If you are hosting company consider donating servers for our bidders/content delivery
+- Support this project funancially will help us to server more ads that make a difference
