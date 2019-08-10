@@ -1,6 +1,6 @@
 ---
-title: This is my title
-description: My New Description
+title: One Ad For Good
+description: Prebid.js adapter for free ads.
 ---
 
 # [1ad4good.org](http://1ad4good.org) 
