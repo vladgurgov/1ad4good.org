@@ -2,7 +2,6 @@
 
 ## 1ad4good.org 
 
-index
 You can make a difference. One ad at time. 
 
 If you are are serving ads on your site chances that you have some unsold impressions. Fill them with love.
