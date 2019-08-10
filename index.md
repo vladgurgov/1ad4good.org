@@ -1,11 +1,13 @@
 ---
 title: One Ad For Good
-description: Prebid.js adapter for free ads.
+description: Prebid.js header bidder adapter for free ads.
 ---
 
 # [1ad4good.org](http://1ad4good.org) 
 
 You can make a difference. One ad at time. 
+
+## What is it? 
 
 If you are are serving ads on your site chances that you have some unsold impressions. Fill them with love.
 Serve free ads that make a difference. 
