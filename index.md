@@ -1,6 +1,9 @@
-# One Ad for Good 
+---
+title: This is my title
+description: My New Description
+---
 
-## 1ad4good.org 
+# [1ad4good.org](http://1ad4good.org) 
 
 You can make a difference. One ad at time. 
 
@@ -19,7 +22,7 @@ We are currently supporting 300x250 banners and video
 
 ### Ads are the worst! You are tracking my data!
 
-No we are not. Our open source [header bidder](https://github.com/vladgurgov/header-bidder) doesn't collect any data and our creatives don't have any tracking either. You can check it by yourself.
+No we are not. Our open source [header bidder](https://github.com/vladgurgov/header-bidder) doesn't collect any data and our creatives don't have any tracking either. You can check it yourself.
 
 ### Who is paying for these ads?
 

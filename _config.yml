@@ -1,4 +1,6 @@
 theme: jekyll-theme-cayman
+title: [One Ad for Good]
+description: Prebid.js adapter for free ads that makes a difference
 headerLinks:
   - title: GitHub
     url: https://github.com/vladgurgov/header-bidder
